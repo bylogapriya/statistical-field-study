@@ -1,3 +1,9 @@
+![Internship](https://img.shields.io/badge/Type-Internship-blue)
+![Field Statistics](https://img.shields.io/badge/Domain-Field%20Statistics-green)
+![Survey Operations](https://img.shields.io/badge/Work-Survey%20Operations-orange)
+![Documentation](https://img.shields.io/badge/Documentation-LaTeX-red)
+![Government](https://img.shields.io/badge/Sector-Government-lightgrey)
+
 # Statistical Field Study
 
 ## Context
